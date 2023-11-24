@@ -5,7 +5,7 @@ result set.
 2. If more than one click from the same IP ties for the most expensive click in a one hour
 period, only place the earliest click into the result set.
 3. If there are more than 10 clicks for an IP in the overall array of clicks, do not include any
-of those clicks in the result set. 
+of those clicks in the result set.  
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ Virtual DOM: React's virtual DOM improves rendering performance by efficiently u
 
 To get started with My Awesome React Project, follow these steps:
 
-```bash
+``bash
 ## To run client side
 npm install
 npm start
